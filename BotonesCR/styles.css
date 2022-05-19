@@ -1,0 +1,76 @@
+
+*{
+    background: lightcyan;
+    margin: 0;
+    font-weight: bold;
+    height: 800px;
+}
+
+h1{
+    background: transparent;
+    height: 50px;
+    text-align: center;
+    width: 80%;
+    margin: 0px auto;
+    font-size: 50px;
+    margin-bottom: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+a{
+    background-color: transparent;
+    text-decoration: none;
+    padding: 12.6px 35%;
+}
+
+a:visited{
+    color: white;
+}
+
+div{
+    width: 80%;
+    height: auto;
+    margin: 0px auto;
+    padding: 60px;
+    box-shadow: 0px 0px 10px gray;
+    margin-top: 115px;
+    border-radius: 20px;
+    background: white;
+}
+button{
+    width: 20%;
+    margin: 30px;
+    height: 60px;
+    font-size: 30px;
+    cursor: pointer;
+    margin-left: 2.5%;
+}
+ 
+
+.a{
+    border: none;
+    background: #92fd7c;
+    box-shadow: 2px 2px 10px gray;
+}
+
+.b{
+    border: none;
+    border-radius: 10px;
+    background: #7cdffd;
+    box-shadow: 2px 2px 10px gray ;
+}
+
+.c{
+    border: none;
+    background: linear-gradient(225deg, #b030e2, #2cceff);
+    box-shadow: 2px 2px 10px gray;
+    border-radius: 10px;
+}
+
+.d{
+    border: none;
+    background: linear-gradient(225deg, #e29530, #b22cff);
+    box-shadow: 2px 2px 10px gray;
+    border-radius: 50px 0px 50px 0px;
+}
+
